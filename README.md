@@ -1,6 +1,6 @@
 # Landing Page
 
-This is my version of a [landing page](https://piotrnajda3000.github.io/landing-page/) based on The Odin Project guidelines.
+This is my version of a [landing page](https://patrolox.github.io/landing-page/) based on The Odin Project guidelines.
 
 It was my first real contact with web development. Thanks to this exercise I got familiar with creating a webpage using html and css. Topics I covered:
 
